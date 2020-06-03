@@ -1,6 +1,6 @@
 
 /**
- * aquarium 클래스 .
+ * Aquarium 입장료를 계산해주는 메소드를 포함한 Aquarium 클래스.
  * 
  * @author (2014671031 김진수,2018315030 이가영,2018315053 테라오카유이카) 
  * @version (2020.05.29)
@@ -12,6 +12,8 @@ public class aquarium
      * 어린이 4세이상 : 400원 
      * 7세 이상 : 900원 
      * 16세 이상 : 2000원 
+     * @param
+     * 
      */
     public int a(int age)
     {
